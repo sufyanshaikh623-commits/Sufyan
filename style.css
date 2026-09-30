@@ -1456,6 +1456,13 @@ div.flip-front p.couple-role {
         max-width: 320px;
     }
 
+/* Cursive names ko cut hone se bachane ke liye */
+.hero-names, .premium-names, .scroll-names {
+  overflow: visible !important;
+  line-height: 1.4 !important;
+  padding: 10px 0 !important;
+}
 
+    
 }
 
